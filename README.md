@@ -5,15 +5,7 @@ A simple C# console application that hashes text input or file content.
 ## Requirements
 
 - .NET 8 SDK
-- Visual Studio 2022 (optional, for IDE use)
 
-## Open in Visual Studio
-
-After cloning, open the solution file at the repository root:
-
-- `HASHING_APP.sln`
-
-This loads the `HashingApp` project automatically in Visual Studio.
 
 ## Run
 
