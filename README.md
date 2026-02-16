@@ -6,6 +6,7 @@ A simple C# console application that hashes text input or file content.
 
 - .NET 8 SDK
 
+
 ## Run
 
 Hash text (defaults to SHA256):
